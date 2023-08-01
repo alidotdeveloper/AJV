@@ -1,5 +1,6 @@
 <h1>AJV JSON schema validator</h1>
-<ul> Topic I cover:
+<ul> 
+ <h2> Topic I cover: </h2>
  <li>install ajv and ajv-formats</li>
  <li>creating and configuring Ajv instance</li>
  <li>creating a custom Ajv JSON schema</li>
