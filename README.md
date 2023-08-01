@@ -1,4 +1,3 @@
-# AJV
 <h1>AJV JSON schema validator</h1>
 <ul> Topic I cover: </ul>
  <li>install ajv and ajv-formats</li>
